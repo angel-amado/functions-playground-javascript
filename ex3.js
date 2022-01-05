@@ -13,3 +13,4 @@
  /**
   * Invoca esta función de manera adecuada para que escribe la palabra 'Hola!' 10 veces
   */
+ esribeVeces(10,"¡ Hola!");
